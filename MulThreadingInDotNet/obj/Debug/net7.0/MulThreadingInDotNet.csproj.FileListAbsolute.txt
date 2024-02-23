@@ -1,0 +1,15 @@
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/bin/Debug/net7.0/MulThreadingInDotNet
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/bin/Debug/net7.0/MulThreadingInDotNet.deps.json
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/bin/Debug/net7.0/MulThreadingInDotNet.runtimeconfig.json
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/bin/Debug/net7.0/MulThreadingInDotNet.dll
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/bin/Debug/net7.0/MulThreadingInDotNet.pdb
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.csproj.AssemblyReference.cache
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.AssemblyInfoInputs.cache
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.AssemblyInfo.cs
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.dll
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/refint/MulThreadingInDotNet.dll
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.pdb
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/MulThreadingInDotNet.genruntimeconfig.cache
+/Users/mac/Documents/MulThreadingInDotNet/MulThreadingInDotNet/obj/Debug/net7.0/ref/MulThreadingInDotNet.dll
